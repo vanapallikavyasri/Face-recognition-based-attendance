@@ -1,7 +1,7 @@
 # Face-recognition-based-attendance
 This is a desktop application which could take attendance of users by capturing their faces
 
-# Steps to be followed to run this on your local machine
+## Steps to be followed to run this on your local machine
 
 1.Clone or download this repository in to your local machine
 
