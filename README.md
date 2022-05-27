@@ -7,7 +7,7 @@ This is a desktop application which could take attendance of users by capturing 
 
 2.Make sure to install python on your machine
 
-3.Install the required libraries in your command prompt(for windows users) or in the terminal of yout favourite IDE
+3.Install the required libraries in your command prompt(for windows users) or in the terminal of your favourite IDE
 
 #### Run these commands on your terminal or cmd to install libraries
 
@@ -19,7 +19,7 @@ c)pip install Pillow
 
 d)pip install opecv-python
 
-4)After following the above steps,open command prompt(for windows users) or terminal of your IDE,change your path and run python app.py.
+4)After following the above steps,open command prompt(for windows users) or terminal of your IDE,change your path to this project folder and run python app.py
 
 You will get this simple UI after following the steps which were mentioned above.
 
@@ -57,16 +57,22 @@ Now,it's time to take attendance....,when you click on take your attendance butt
 
 ![Taking Attendance 26-05-2022 19_48_50](https://user-images.githubusercontent.com/72351336/170668737-d3d78830-956c-4a78-bf80-8e919dfd8014.png)
 
-As u have pressed 'Q' to turn off your camera,you could find live attendance for the day on the screen in tabular format.
+As you have pressed 'Q' to turn off your camera,you could find live attendance for the day on the screen in tabular format.
 
 ![Attendance System 26-05-2022 20_02_15](https://user-images.githubusercontent.com/72351336/170671017-720dc6ab-8b1d-432a-9e7e-08f0d65ac5ba.png)
 
 
-As you have taken attendance, an excel sheet will be created inside the Attendance folder as per date and time and you could find deatils of users,if you open it 
+As you have taken attendance, an excel sheet will be created inside the Attendance folder as per date and time and you could find details of users,if you open it 
 
 ![WhatsApp Image 2022-05-27 at 11 03 32 AM](https://user-images.githubusercontent.com/72351336/170669899-1aa997ea-5a38-482d-bbcc-e34d4b45cbed.jpeg)
 
-You can press "Exit" button to quit from the page.
+##### Done with the attendance!! 
+
+##### You can press "Exit" button,to quit from the page.
+
+#### Thanks for reading!!
+
+For any queries mail me at vanapallikavyasri@gmail.com
 
 
 
