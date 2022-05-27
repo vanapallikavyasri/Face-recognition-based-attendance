@@ -45,7 +45,7 @@ Student details folder,training image label folder and attendance folder will be
 ![WhatsApp Image 2022-05-27 at 11 04 02 AM](https://user-images.githubusercontent.com/72351336/170662463-55d8fd87-6e8a-4aa6-a93d-2b4c8f50e702.jpeg)
 
 
-As a new user registers ,while saving your profile,it asks for a password and that password that you have entered will be stored in training image label folder as psd.txt file and trainer.yml file will be created.
+As a new user registers ,while saving your profile,it asks for a password and that password that you have entered will be stored in training image label folder as psd.txt file and trainer.yml file will be created in this folder when attendance of user has taken.
 
 ![WhatsApp Image 2022-05-27 at 11 02 34 AM](https://user-images.githubusercontent.com/72351336/170666868-e394c671-68ce-4b1f-9991-06bd80a0b944.jpeg)
 
