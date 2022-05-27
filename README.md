@@ -17,7 +17,9 @@ b)pip install pandas
 
 c)pip install Pillow
 
-d)pip install opecv-python
+d)pip install opencv-python
+
+e)pip install face_recognition(install cmake and dlib libraries prior to this and follow docs for installing)
 
 4)After following the above steps,open command prompt(for windows users) or terminal of your IDE,change your path to this project folder and run python app.py
 
